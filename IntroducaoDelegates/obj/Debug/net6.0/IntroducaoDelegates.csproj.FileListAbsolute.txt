@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/bin/Debug/net6.0/IntroducaoDelegates
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/bin/Debug/net6.0/IntroducaoDelegates.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/bin/Debug/net6.0/IntroducaoDelegates.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/bin/Debug/net6.0/IntroducaoDelegates.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/bin/Debug/net6.0/ref/IntroducaoDelegates.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/bin/Debug/net6.0/IntroducaoDelegates.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/ref/IntroducaoDelegates.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/IntroducaoDelegates/obj/Debug/net6.0/IntroducaoDelegates.genruntimeconfig.cache

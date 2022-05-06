@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/bin/Debug/net6.0/Comparacao
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/bin/Debug/net6.0/Comparacao.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/bin/Debug/net6.0/Comparacao.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/bin/Debug/net6.0/Comparacao.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/bin/Debug/net6.0/ref/Comparacao.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/bin/Debug/net6.0/Comparacao.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/ref/Comparacao.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/obj/Debug/net6.0/Comparacao.genruntimeconfig.cache

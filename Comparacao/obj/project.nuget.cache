@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4fxXFQ2WAxqnBKnu0w+zb1R3HjoJ+eiRgW2PS7qIt6KNAve9payuc1PS7guft7S050f6LftLcQRFbHbg0dqwQ==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Comparacao/Comparacao.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
