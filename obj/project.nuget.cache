@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M61L5MPnJL+tEcig0XoX+1sf5NycYU0vCTtp29hofNRqUSifyYSiMcD/rddqxwdRE2zGI8Xxhz8jjiCTfyeyeg==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/Polimorfismo.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

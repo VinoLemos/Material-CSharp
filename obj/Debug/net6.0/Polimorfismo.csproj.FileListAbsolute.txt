@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/bin/Debug/net6.0/Polimorfismo
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/bin/Debug/net6.0/Polimorfismo.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/bin/Debug/net6.0/Polimorfismo.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/bin/Debug/net6.0/Polimorfismo.dll
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/bin/Debug/net6.0/ref/Polimorfismo.dll
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/bin/Debug/net6.0/Polimorfismo.pdb
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.dll
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/ref/Polimorfismo.dll
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.pdb
+/home/vino/Documents/Workspaces/C#/Course/Polimorfismo/obj/Debug/net6.0/Polimorfismo.genruntimeconfig.cache
