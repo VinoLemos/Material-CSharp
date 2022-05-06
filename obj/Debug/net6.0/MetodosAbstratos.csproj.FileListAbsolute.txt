@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/bin/Debug/net6.0/MetodosAbstratos
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/bin/Debug/net6.0/MetodosAbstratos.deps.json
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/bin/Debug/net6.0/MetodosAbstratos.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/bin/Debug/net6.0/MetodosAbstratos.dll
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/bin/Debug/net6.0/ref/MetodosAbstratos.dll
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/bin/Debug/net6.0/MetodosAbstratos.pdb
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.dll
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/ref/MetodosAbstratos.dll
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.pdb
+/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/obj/Debug/net6.0/MetodosAbstratos.genruntimeconfig.cache

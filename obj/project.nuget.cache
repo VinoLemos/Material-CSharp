@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IDhok8uDoSM0MSXB0LhK7oSEOF27Dc4FjM285Dtgcdw0FFCpoivC6MdmGyflCIvCi1uBeSZ6241H3a5HIl9kcw==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/MetodosAbstratos/MetodosAbstratos.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
