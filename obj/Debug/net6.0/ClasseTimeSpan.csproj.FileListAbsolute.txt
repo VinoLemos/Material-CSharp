@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/bin/Debug/net6.0/ClasseTimeSpan
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/bin/Debug/net6.0/ClasseTimeSpan.deps.json
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/bin/Debug/net6.0/ClasseTimeSpan.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/bin/Debug/net6.0/ClasseTimeSpan.dll
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/bin/Debug/net6.0/ref/ClasseTimeSpan.dll
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/bin/Debug/net6.0/ClasseTimeSpan.pdb
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.dll
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ref/ClasseTimeSpan.dll
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.pdb
+/home/vino/Documents/Workspaces/C#/Course/ClasseTimeSpan/obj/Debug/net6.0/ClasseTimeSpan.genruntimeconfig.cache
