@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/bin/Debug/net6.0/InterfaceIComparable
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/bin/Debug/net6.0/InterfaceIComparable.deps.json
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/bin/Debug/net6.0/InterfaceIComparable.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/bin/Debug/net6.0/InterfaceIComparable.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/bin/Debug/net6.0/ref/InterfaceIComparable.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/bin/Debug/net6.0/InterfaceIComparable.pdb
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/ref/InterfaceIComparable.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.pdb
+/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/obj/Debug/net6.0/InterfaceIComparable.genruntimeconfig.cache

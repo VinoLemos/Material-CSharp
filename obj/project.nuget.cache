@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DxgiHFqi5MKe0LTbpnUcPvCX9TbdBBLlf4u2LJmkNdiUyeHVvOMwsWKYB/J6WPAhCUBovcrcZnEF6PyOYn/ZA==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/InterfaceIComparable/InterfaceIComparable.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
