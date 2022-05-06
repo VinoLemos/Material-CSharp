@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/bin/Debug/net6.0/ParamsModifier
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/bin/Debug/net6.0/ParamsModifier.deps.json
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/bin/Debug/net6.0/ParamsModifier.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/bin/Debug/net6.0/ParamsModifier.dll
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/bin/Debug/net6.0/ref/ParamsModifier.dll
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/bin/Debug/net6.0/ParamsModifier.pdb
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.dll
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ref/ParamsModifier.dll
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.pdb
+/home/vino/Documents/Workspaces/C#/Course/ParamsModifier/obj/Debug/net6.0/ParamsModifier.genruntimeconfig.cache
