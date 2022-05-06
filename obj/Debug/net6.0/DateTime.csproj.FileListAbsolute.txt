@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/DateTime/bin/Debug/net6.0/DateTime
+/home/vino/Documents/Workspaces/C#/Course/DateTime/bin/Debug/net6.0/DateTime.deps.json
+/home/vino/Documents/Workspaces/C#/Course/DateTime/bin/Debug/net6.0/DateTime.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/DateTime/bin/Debug/net6.0/DateTime.dll
+/home/vino/Documents/Workspaces/C#/Course/DateTime/bin/Debug/net6.0/ref/DateTime.dll
+/home/vino/Documents/Workspaces/C#/Course/DateTime/bin/Debug/net6.0/DateTime.pdb
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.dll
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/ref/DateTime.dll
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.pdb
+/home/vino/Documents/Workspaces/C#/Course/DateTime/obj/Debug/net6.0/DateTime.genruntimeconfig.cache
