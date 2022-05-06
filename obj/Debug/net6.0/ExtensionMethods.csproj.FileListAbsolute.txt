@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/bin/Debug/net6.0/ExtensionMethods
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/bin/Debug/net6.0/ExtensionMethods.deps.json
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/bin/Debug/net6.0/ExtensionMethods.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/bin/Debug/net6.0/ExtensionMethods.dll
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/bin/Debug/net6.0/ref/ExtensionMethods.dll
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/bin/Debug/net6.0/ExtensionMethods.pdb
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.dll
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ref/ExtensionMethods.dll
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.pdb
+/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/obj/Debug/net6.0/ExtensionMethods.genruntimeconfig.cache

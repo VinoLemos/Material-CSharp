@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6oQJH7+lBmFEMZpRiyxICM04A7/wIbuvt/aN3pn6Qt+ImPPQ5LwqJQzVN56jQwZFGpaLfctNoE28vnUbBYLug==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/ExtensionMethods/ExtensionMethods.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
