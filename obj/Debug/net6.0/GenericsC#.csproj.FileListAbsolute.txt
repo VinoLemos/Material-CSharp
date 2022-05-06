@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/bin/Debug/net6.0/GenericsC#
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/bin/Debug/net6.0/GenericsC#.deps.json
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/bin/Debug/net6.0/GenericsC#.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/bin/Debug/net6.0/GenericsC#.dll
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/bin/Debug/net6.0/ref/GenericsC#.dll
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/bin/Debug/net6.0/GenericsC#.pdb
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.dll
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/ref/GenericsC#.dll
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.pdb
+/home/vino/Documents/Workspaces/C#/Course/GenericsC#/obj/Debug/net6.0/GenericsC#.genruntimeconfig.cache
