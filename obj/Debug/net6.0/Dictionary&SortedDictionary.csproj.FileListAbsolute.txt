@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/bin/Debug/net6.0/Dictionary&SortedDictionary
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/bin/Debug/net6.0/Dictionary&SortedDictionary.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/bin/Debug/net6.0/Dictionary&SortedDictionary.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/bin/Debug/net6.0/Dictionary&SortedDictionary.dll
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/bin/Debug/net6.0/ref/Dictionary&SortedDictionary.dll
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/bin/Debug/net6.0/Dictionary&SortedDictionary.pdb
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.dll
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/ref/Dictionary&SortedDictionary.dll
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.pdb
+/home/vino/Documents/Workspaces/C#/Course/Dictionary&SortedDictionary/obj/Debug/net6.0/Dictionary&SortedDictionary.genruntimeconfig.cache
