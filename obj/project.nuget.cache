@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQsvjxwuQyDyVJ/XwDYXhTVl5Wi4N2Ufjt5wGk1lHJC6CqKREbKrc6f3QMqi77co3MfF95MAZWhCB2ylaRmlBg==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/Funcoes/Funcoes.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
