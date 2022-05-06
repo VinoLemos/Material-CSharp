@@ -1,0 +1,20 @@
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/bin/Debug/net6.0/MetodoFunc
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/bin/Debug/net6.0/MetodoFunc.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/bin/Debug/net6.0/MetodoFunc.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/bin/Debug/net6.0/MetodoFunc.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/bin/Debug/net6.0/ref/MetodoFunc.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/bin/Debug/net6.0/MetodoFunc.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/ref/MetodoFunc.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/MetodoFunc/obj/Debug/net6.0/MetodoFunc.genruntimeconfig.cache
