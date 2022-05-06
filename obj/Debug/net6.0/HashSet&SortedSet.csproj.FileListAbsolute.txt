@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/bin/Debug/net6.0/HashSet&SortedSet
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/bin/Debug/net6.0/HashSet&SortedSet.deps.json
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/bin/Debug/net6.0/HashSet&SortedSet.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/bin/Debug/net6.0/HashSet&SortedSet.dll
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/bin/Debug/net6.0/ref/HashSet&SortedSet.dll
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/bin/Debug/net6.0/HashSet&SortedSet.pdb
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.dll
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/ref/HashSet&SortedSet.dll
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.pdb
+/home/vino/Documents/Workspaces/C#/Course/HashSet&SortedSet/obj/Debug/net6.0/HashSet&SortedSet.genruntimeconfig.cache
