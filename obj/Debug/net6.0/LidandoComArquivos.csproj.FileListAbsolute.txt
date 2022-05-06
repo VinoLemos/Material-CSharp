@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/bin/Debug/net6.0/LidandoComArquivos
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/bin/Debug/net6.0/LidandoComArquivos.deps.json
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/bin/Debug/net6.0/LidandoComArquivos.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/bin/Debug/net6.0/LidandoComArquivos.dll
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/bin/Debug/net6.0/ref/LidandoComArquivos.dll
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/bin/Debug/net6.0/LidandoComArquivos.pdb
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.dll
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/ref/LidandoComArquivos.dll
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.pdb
+/home/vino/Documents/Workspaces/C#/Course/LidandoComArquivos/obj/Debug/net6.0/LidandoComArquivos.genruntimeconfig.cache
