@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/bin/Debug/net6.0/TrabalhandoComDiretorios
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/bin/Debug/net6.0/TrabalhandoComDiretorios.deps.json
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/bin/Debug/net6.0/TrabalhandoComDiretorios.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/bin/Debug/net6.0/TrabalhandoComDiretorios.dll
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/bin/Debug/net6.0/ref/TrabalhandoComDiretorios.dll
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/bin/Debug/net6.0/TrabalhandoComDiretorios.pdb
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.dll
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/ref/TrabalhandoComDiretorios.dll
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.pdb
+/home/vino/Documents/Workspaces/C#/Course/TrabalhandoComDiretorios/obj/Debug/net6.0/TrabalhandoComDiretorios.genruntimeconfig.cache
