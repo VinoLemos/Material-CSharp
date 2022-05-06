@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iR/XsVY+fa9bwAIFOqMl0XAQTOzYn9NvbYkUoRKCauxFVhQoE8+mrek7WGiB7TRpMqDcNXb4CGI+ZDUjiWcnnw==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/Enumeradores/Enumeradores.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

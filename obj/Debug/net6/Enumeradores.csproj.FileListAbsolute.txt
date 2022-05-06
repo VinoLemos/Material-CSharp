@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/bin/Debug/net6/Enumeradores
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/bin/Debug/net6/Enumeradores.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/bin/Debug/net6/Enumeradores.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/bin/Debug/net6/Enumeradores.dll
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/bin/Debug/net6/ref/Enumeradores.dll
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/bin/Debug/net6/Enumeradores.pdb
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.dll
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/ref/Enumeradores.dll
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.pdb
+/home/vino/Documents/Workspaces/C#/Course/Enumeradores/obj/Debug/net6/Enumeradores.genruntimeconfig.cache
