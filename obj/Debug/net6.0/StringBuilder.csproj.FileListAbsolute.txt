@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/bin/Debug/net6.0/StringBuilder
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/bin/Debug/net6.0/StringBuilder.deps.json
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/bin/Debug/net6.0/StringBuilder.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/bin/Debug/net6.0/StringBuilder.dll
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/bin/Debug/net6.0/ref/StringBuilder.dll
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/bin/Debug/net6.0/StringBuilder.pdb
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.dll
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/ref/StringBuilder.dll
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.pdb
+/home/vino/Documents/Workspaces/C#/Course/StringBuilder/obj/Debug/net6.0/StringBuilder.genruntimeconfig.cache
