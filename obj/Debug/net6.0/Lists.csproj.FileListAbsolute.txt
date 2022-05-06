@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Lists/bin/Debug/net6.0/Lists
+/home/vino/Documents/Workspaces/C#/Course/Lists/bin/Debug/net6.0/Lists.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Lists/bin/Debug/net6.0/Lists.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Lists/bin/Debug/net6.0/Lists.dll
+/home/vino/Documents/Workspaces/C#/Course/Lists/bin/Debug/net6.0/ref/Lists.dll
+/home/vino/Documents/Workspaces/C#/Course/Lists/bin/Debug/net6.0/Lists.pdb
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.dll
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/ref/Lists.dll
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.pdb
+/home/vino/Documents/Workspaces/C#/Course/Lists/obj/Debug/net6.0/Lists.genruntimeconfig.cache
