@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/bin/Debug/net6.0/ExecoesPersonalizadas
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/bin/Debug/net6.0/ExecoesPersonalizadas.deps.json
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/bin/Debug/net6.0/ExecoesPersonalizadas.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/bin/Debug/net6.0/ExecoesPersonalizadas.dll
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/bin/Debug/net6.0/ref/ExecoesPersonalizadas.dll
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/bin/Debug/net6.0/ExecoesPersonalizadas.pdb
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.dll
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ref/ExecoesPersonalizadas.dll
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.pdb
+/home/vino/Documents/Workspaces/C#/Course/ExcecoesPersonalizadas/obj/Debug/net6.0/ExecoesPersonalizadas.genruntimeconfig.cache
