@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/bin/Debug/net6.0/Classes - Produtos
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/bin/Debug/net6.0/Classes - Produtos.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/bin/Debug/net6.0/Classes - Produtos.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/bin/Debug/net6.0/Classes - Produtos.dll
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/bin/Debug/net6.0/ref/Classes - Produtos.dll
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/bin/Debug/net6.0/Classes - Produtos.pdb
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.dll
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/ref/Classes - Produtos.dll
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.pdb
+/home/vino/Documents/Workspaces/C#/Course/Classes - Produtos/obj/Debug/net6.0/Classes - Produtos.genruntimeconfig.cache
