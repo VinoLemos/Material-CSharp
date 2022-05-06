@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/bin/Debug/net6.0/Matrizes
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/bin/Debug/net6.0/Matrizes.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/bin/Debug/net6.0/Matrizes.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/bin/Debug/net6.0/Matrizes.dll
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/bin/Debug/net6.0/ref/Matrizes.dll
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/bin/Debug/net6.0/Matrizes.pdb
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.dll
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/ref/Matrizes.dll
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.pdb
+/home/vino/Documents/Workspaces/C#/Course/Matrizes/obj/Debug/net6.0/Matrizes.genruntimeconfig.cache
