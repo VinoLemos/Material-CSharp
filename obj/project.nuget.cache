@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAqTeac3s0zPZEPAvq1VF4owKNxZBvHTpCubTPUq1+LRPxk8VK3PCyz8X2toYYabtmOtm6NR0xgk0jRmYob+pw==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Course/Introducao/Introducao.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
