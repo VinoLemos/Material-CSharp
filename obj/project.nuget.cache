@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqJxw9O/iT+JoleIJXPSerM2MxChZ4gQhTuq2PaZbLm8X1Yt0wrurBOKF7BZyvZ8/p7R5m2USU4yIxUblJP29g==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Entrada de dados/Entrada de dados.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Entrada de dados/bin/Debug/net6.0/Entrada de dados
+/home/vino/Documents/Workspaces/C#/Entrada de dados/bin/Debug/net6.0/Entrada de dados.deps.json
+/home/vino/Documents/Workspaces/C#/Entrada de dados/bin/Debug/net6.0/Entrada de dados.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Entrada de dados/bin/Debug/net6.0/Entrada de dados.dll
+/home/vino/Documents/Workspaces/C#/Entrada de dados/bin/Debug/net6.0/ref/Entrada de dados.dll
+/home/vino/Documents/Workspaces/C#/Entrada de dados/bin/Debug/net6.0/Entrada de dados.pdb
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.dll
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/ref/Entrada de dados.dll
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.pdb
+/home/vino/Documents/Workspaces/C#/Entrada de dados/obj/Debug/net6.0/Entrada de dados.genruntimeconfig.cache
