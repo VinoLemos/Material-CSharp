@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/bin/Debug/net6.0/Interfaces
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/bin/Debug/net6.0/Interfaces.deps.json
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/bin/Debug/net6.0/Interfaces.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/bin/Debug/net6.0/Interfaces.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/bin/Debug/net6.0/ref/Interfaces.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/bin/Debug/net6.0/Interfaces.pdb
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/ref/Interfaces.dll
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.pdb
+/home/vino/Documents/Workspaces/C#/Course/InterfacesCsharp/obj/Debug/net6.0/Interfaces.genruntimeconfig.cache
