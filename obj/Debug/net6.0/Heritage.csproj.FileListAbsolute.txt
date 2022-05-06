@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/Heritage/bin/Debug/net6.0/Heritage
+/home/vino/Documents/Workspaces/C#/Course/Heritage/bin/Debug/net6.0/Heritage.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Heritage/bin/Debug/net6.0/Heritage.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Heritage/bin/Debug/net6.0/Heritage.dll
+/home/vino/Documents/Workspaces/C#/Course/Heritage/bin/Debug/net6.0/ref/Heritage.dll
+/home/vino/Documents/Workspaces/C#/Course/Heritage/bin/Debug/net6.0/Heritage.pdb
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.dll
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/ref/Heritage.dll
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.pdb
+/home/vino/Documents/Workspaces/C#/Course/Heritage/obj/Debug/net6.0/Heritage.genruntimeconfig.cache
