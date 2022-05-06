@@ -1,0 +1,20 @@
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/Action/obj/Debug/net6.0/Action.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/Action/obj/Debug/net6.0/Action.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/Action/obj/Debug/net6.0/Action.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/Action/obj/Debug/net6.0/Action.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ExpressoesLambda/Action/obj/Debug/net6.0/Action.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/bin/Debug/net6.0/Action
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/bin/Debug/net6.0/Action.deps.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/bin/Debug/net6.0/Action.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/bin/Debug/net6.0/Action.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/bin/Debug/net6.0/ref/Action.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/bin/Debug/net6.0/Action.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/ref/Action.dll
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.pdb
+/home/vino/Documents/Workspaces/C#/Course/Expressoes Lambda/Action/obj/Debug/net6.0/Action.genruntimeconfig.cache
