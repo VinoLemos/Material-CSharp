@@ -55,27 +55,53 @@ namespace Linq
             };
 
             // Imprimir produtos cuja categoria seja 1, e preço menor que 900
-            var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
+            //var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
+            // Sintaxe alternativa - SQL
+            var r1 =
+                    from p in products
+                    where p.Category.Tier == 1 && p.Price < 900.0
+                    select p;
             Print("Tier 1 Products and Price < 900: ", r1);
 
-            var r2 = products.Where(p => p.Category.Name == "Tools")// Recebe produtos cuja categoria seja Tools
-            .Select(p => p.Name);// Filtra os produtos da função lambda anterior, e recebe apenas os nomes
+            //var r2 = products.Where(p => p.Category.Name == "Tools")// Recebe produtos cuja categoria seja Tools
+            //.Select(p => p.Name);// Filtra os produtos da função lambda anterior, e recebe apenas os nomes
+            var r2 = 
+                    from p in products
+                    where p.Category.Name == "Tools"
+                    select p.Name;
             Print("Names of products from Tools Category: ", r2);
 
             // Produtos cujo nome começa com a letra C
-            var r3 = products.Where(p => p.Name[0] == 'C')
+            // var r3 = products.Where(p => p.Name[0] == 'C')
             // Filtrar apenas nome, preço e categoria
-            .Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });// Nome da categoria recebe um Alias CategoryName
+            //.Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });// Nome da categoria recebe um Alias CategoryName
+            var r3 = 
+                    from p in products
+                    where p.Name[0] == 'C'
+                    select new {
+                        p.Name,
+                        p.Price,
+                        CategoryName = p.Category.Name
+                    };
             Print("Names started with C and Anonymous Object: ", r3);
 
             // Produtos de Categoria 1
-            var r4 = products.Where(p => p.Category.Tier == 1)
-            .OrderBy(p => p.Price)// Ordena por Preço
-            .ThenBy(p => p.Name);// Ordena a coleção da função anterior por Nome
+            //var r4 = products.Where(p => p.Category.Tier == 1)
+            //.OrderBy(p => p.Price)// Ordena por Preço
+            //.ThenBy(p => p.Name);// Ordena a coleção da função anterior por Nome
+            var r4 = 
+                    from p in products
+                    where p.Category.Tier == 1
+                    orderby p.Name
+                    orderby p.Price
+                    select p;
             Print("Products from Category Tier 1: ", r4);
 
             // Skip e Take = Pular os 2 primeiros resultados, e retornar 4 objetos da coleção
-            var r5 = r4.Skip(2).Take(4);
+            //var r5 = r4.Skip(2).Take(4);
+            var r5 = 
+                    (from p in r4
+                    select p).Skip(2).Take(4);
             Print("Products from Category Tier 1 - Skip 2, Take 4: ", r5);
 
             var r6 = products.First();
@@ -123,7 +149,10 @@ namespace Linq
             Console.WriteLine("Category 1 Aggregate Sum: R$" + r15.ToString("F2"));
 
             // Agrupamento
-            var r16 = products.GroupBy( p => p.Category);
+            //var r16 = products.GroupBy( p => p.Category);
+            var r16 =
+                    from p in products
+                    group p by p.Category;
             foreach (IGrouping<Category, Product> group in r16)
             {
                 Console.WriteLine("Category " + group.Key.Name + ": ");
