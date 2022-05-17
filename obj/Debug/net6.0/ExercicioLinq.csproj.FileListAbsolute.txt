@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/bin/Debug/net6.0/ExercicioLinq
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/bin/Debug/net6.0/ExercicioLinq.deps.json
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/bin/Debug/net6.0/ExercicioLinq.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/bin/Debug/net6.0/ExercicioLinq.dll
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/bin/Debug/net6.0/ref/ExercicioLinq.dll
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/bin/Debug/net6.0/ExercicioLinq.pdb
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.dll
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ref/ExercicioLinq.dll
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.pdb
+/home/vino/Documents/Workspaces/C#/Course/ExercicioLinq/obj/Debug/net6.0/ExercicioLinq.genruntimeconfig.cache
