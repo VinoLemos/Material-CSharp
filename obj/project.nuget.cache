@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+Alfc5RyO4gOVfdlHBjXtHtRoM5OYh+oImHvaY6XSjbsEixzUwQM3JByTMYD7zUAGBs3N1CnuC2ZyoI1wYyAw==",
+  "success": true,
+  "projectFilePath": "/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/ExercicioPraticoLinq.csproj",
+  "expectedPackageFiles": [
+    "/home/vino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

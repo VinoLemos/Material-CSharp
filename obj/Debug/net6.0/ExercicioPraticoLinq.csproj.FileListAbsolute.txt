@@ -1,0 +1,15 @@
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.csproj.AssemblyReference.cache
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.GeneratedMSBuildEditorConfig.editorconfig
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.AssemblyInfoInputs.cache
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.AssemblyInfo.cs
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.csproj.CoreCompileInputs.cache
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/bin/Debug/net6.0/ExercicioPraticoLinq
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/bin/Debug/net6.0/ExercicioPraticoLinq.deps.json
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/bin/Debug/net6.0/ExercicioPraticoLinq.runtimeconfig.json
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/bin/Debug/net6.0/ExercicioPraticoLinq.dll
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/bin/Debug/net6.0/ref/ExercicioPraticoLinq.dll
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/bin/Debug/net6.0/ExercicioPraticoLinq.pdb
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.dll
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ref/ExercicioPraticoLinq.dll
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.pdb
+/home/vino/Documents/Workspaces/C#/Exercícios/ExercicioPraticoLinq/obj/Debug/net6.0/ExercicioPraticoLinq.genruntimeconfig.cache
